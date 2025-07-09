@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+/* 모바일 기준 전체 폰트 크기 작게 */
+@media (max-width: 640px) {
+  html {
+    font-size: 10px;
+  }
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
