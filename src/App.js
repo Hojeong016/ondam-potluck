@@ -242,7 +242,7 @@ function App() {
                         <span className="text-lg text-gray-600">언제라도 여행</span>
                       </div>
                       <p className="text-sm text-gray-600 pl-8 text-right">
-                        합정역 2번 출구 인근<br />
+                        합정역 2번 출구<br />
                         세부 위치는 변경될 수 있습니다.
                       </p>
                     </div>
